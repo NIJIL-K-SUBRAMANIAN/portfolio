@@ -1,0 +1,12 @@
+
+.img-properties{
+    width: 15rem;
+}
+
+@media screen and (max-width:991px) {
+    .img-properties{
+        width: 10rem;
+
+    }
+}
+
